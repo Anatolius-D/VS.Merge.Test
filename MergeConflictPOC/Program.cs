@@ -11,6 +11,7 @@ namespace MergeConflictPOC
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("You and I share the same energy!");
         }
     }
 }
